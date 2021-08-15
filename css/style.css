@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    color: blueviolet;
+    cursor: grab;
+}
+.form{
+    width: 50%;
+    border: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10 20px gray;
+}
